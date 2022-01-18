@@ -3,3 +3,6 @@
 ![WhatsApp Image 2022-01-17 at 22 26 15 (1)](https://user-images.githubusercontent.com/64658440/149859679-db27ff15-33db-4f06-82cb-1b466c1c5031.jpeg)
 
 # Status: Concluido!
+
+# Descrição: 
+Este aplicativo tem como funcionalidade organizar tarefas diárias para facilitar o cotidiano das pessoas e o cumprimento de todas as atividades. 
